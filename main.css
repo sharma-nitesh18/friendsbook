@@ -23,6 +23,8 @@ height:30px;
 #header{
 	background-color:#4267b2;
 	color:white;
+	width:100%;
+	
 }
 .white-text{
 	color:white!important;
@@ -54,6 +56,16 @@ height:30px;
 #main::-webkit-scrollbar {
     display: none;
 }
+
+
+.leftbar-textcolor{
+	color:black;
+	
+	
+	
+}
+
+
 .comment {
     margin: 0;
 }
@@ -69,7 +81,26 @@ height:30px;
 	font-size:12px;
 }	
 
-
 .downtown{
 	display: inline;
 }	
+	
+.logo{
+	
+	height:28px;
+	margin-top:-4px;
+	margin-left:30px;
+}
+.search-box{
+max-width: 448px;
+border: 1px solid #3b5998;
+border-radius: 3px;
+box-sizing: border-box;
+height: 29px;
+width:400px !important;
+margin:2px 0px 0px -20px;
+
+	.insider {
+		position:relative;
+		right:10px;
+	}
